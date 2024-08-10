@@ -16,7 +16,7 @@ import net.wurstclient.mixinterface.IKeyBinding;
 import net.wurstclient.settings.SliderSetting;
 import net.wurstclient.settings.SliderSetting.ValueDisplay;
 
-@SearchTags({"miley cyrus", "twerk", "wrecking ball"})
+@SearchTags({"miley cyrus", "twerk", "gyatt"})
 public final class MileyCyrusHack extends Hack implements UpdateListener
 {
 	private final SliderSetting twerkSpeed = new SliderSetting("Twerk speed",
