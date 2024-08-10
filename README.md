@@ -1,4 +1,4 @@
-# Wurst Client v7
+# kai da pie client
 
 ## Downloads (for users)
 
@@ -30,6 +30,11 @@ Names of features (hacks/commands/etc.) should always be kept in English. This e
 
 The translation files are located in [this folder](https://github.com/Wurst-Imperium/Wurst7/tree/master/src/main/resources/assets/wurst/translations), in case you need them.
 
+
+
 ## License
 
 This code is licensed under the GNU General Public License v3. **You can only use this code in open-source clients that you release under the same license! Using it in closed-source/proprietary clients is not allowed!**
+
+
+#credit to wurst7 client for literally everything
