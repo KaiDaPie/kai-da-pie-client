@@ -87,7 +87,7 @@ public final class BaseFinderHack extends Hack
 		"minecraft:snow", "minecraft:spawner", "minecraft:spruce_leaves",
 		"minecraft:spruce_log", "minecraft:stone", "minecraft:sunflower",
 		"minecraft:tall_grass", "minecraft:tall_seagrass", "minecraft:tuff",
-		"minecraft:vine", "minecraft:water", "minecraft:white_tulip");
+		"minecraft:vine", "minecraft:water", "minecraft:white_tulip", "minecraft:grass");
 	
 	private final ColorSetting color = new ColorSetting("Color",
 		"Man-made blocks will be highlighted in this color.", Color.RED);
